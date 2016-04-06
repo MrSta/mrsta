@@ -1,0 +1,1 @@
+Mrsta is a PHP-boilerplate/framework for small websites. It is published at GitHub: https://github.com/mrsta/mrsta.
