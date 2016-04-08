@@ -51,7 +51,7 @@ $mrsta['lang']         = 'sv';
 $mrsta['title_append'] = ' | Mrsta en webbtemplate';
 
 $mrsta['header'] = <<<EOD
-<img class='sitelogo' src='img/me/me-small.jpg' height="100px" alt='Mrsta Logo'/>
+<img class='sitelogo' src='img/me/me-small.jpg' height="100" alt='Mrsta Logo'/>
 <span class='sitetitle'>Mrsta oophp</span>
 <span class='siteslogan'>Min Me-sida i kursen Databaser och Objektorienterad PHP-programmering</span>
 EOD;
@@ -62,7 +62,7 @@ EOD;
 
 $mrsta['byline'] = <<<EOD
 <footer class="byline">
-  <figure class="right"><img src="./img/me/me-small.jpg?w=80&h=80&crop-to-fit&q=70" height="100px" alt="Staffan">
+  <figure class="right"><img src="./img/me/me-small.jpg?w=80&h=80&crop-to-fit&q=70" height="100" alt="Staffan">
     <figcaption>En seriös Staffan.</figcaption>
   </figure>
   <p>
@@ -72,7 +72,7 @@ $mrsta['byline'] = <<<EOD
 
   <nav>
     <ul class='icons'>
-      <li><a href='http://mikaelroos.se/linkedin'><i class="fa fa-linkedin"></i></a></li>
+      <li><a href='https://se.linkedin.com/in/mrsta'><i class="fa fa-linkedin"></i></a></li>
     </ul>
   </nav>
 
